@@ -1,0 +1,5 @@
+train: C:\Users\DELL\Desktop\ProjectDL\train
+val: C:\Users\DELL\Desktop\ProjectDL\val
+
+nc: 1
+names: ["gulab jamun"]
